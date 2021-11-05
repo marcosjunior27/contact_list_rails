@@ -1,2 +1,10 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+$gray-medium-ligth: #EAEAEA;
+
+footer {
+    margin-top: 45px;
+    padding-top: 5px ;
+    border-top: 1px solid $gray-medium-ligth;
+}
